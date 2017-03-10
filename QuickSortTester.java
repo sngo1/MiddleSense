@@ -13,16 +13,16 @@ public class QuickSortTester{
 	//int[] arr5 = QuickSort.buildArray(10000,100);
 	//int[] arr6 = QuickSort.buildArray(100000,100);
 
-	System.out.println("\narr init'd to: " );
-	QuickSort.printArr(arr1);
+	//System.out.println("\narr init'd to: " );
+	//QuickSort.printArr(arr6);
 	
        	QuickSort.shuffle(arr1);
-       	System.out.println("arr post-shuffle: " );
-	QuickSort.printArr(arr1);
+       	//System.out.println("arr post-shuffle: " );
+	//QuickSort.printArr(arr6);
 
 	QuickSort.qsort( arr1 );
-	System.out.println("arr after sort: " );
-	QuickSort.printArr(arr1);
+	//System.out.println("arr after sort: " );
+	//QuickSort.printArr(arr6);
     }
 }
 
