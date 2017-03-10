@@ -73,7 +73,11 @@ public class QuickSort
 	//pick random index as pivot
 	int pivot = (int)(Math.random() * d.length-1);
 	int q = Mysterion(d, 0, d.length - 1, pivot);
-	if(q == 0){
+	//arr with 1 element is already sorted
+	if (d.length == 1) {
+	    return;
+	}
+	else if(q == 0){
 	    qSortHelper(d, 1, d.length-1 );
 	}
 	else if(q== d.length-1){
