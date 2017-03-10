@@ -21,6 +21,19 @@ QuickSort <br> <br>
 ###We used 3 helper functions to calculate the average time for each array. <br>
 We used QuickSort.buildArray(size,maxVal) to build new randomly generated arrays.<br>We used calculateTime to calculate the time (in milliseconds) to quicksort by utilizing System.currentTimeMillis().<br>We used avgTime to calculate the average time to quicksort 100 different arrays 100 times.
 
+##Time Measurements (in milliseconds)
+
+###
+	 Average time for size      1: 0.0
+	 Average time for size     10: 0.0
+	 Average time for size    100: 0.0 
+	 Average time for size   1000: 0.15
+	 Average time for size   5000: 1.41
+	 Average time for size  10000: 2.61
+	 Average time for size  50000: 26.79
+	 Average time for size 100000: 89.9
+	 Average time for size 200000: 320.71
+
 
 
 
