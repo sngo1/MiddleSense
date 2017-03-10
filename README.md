@@ -3,8 +3,8 @@
 ##Team Information
 
 ###
-Team MiddleSense
-Despoina Sparakis, Samantha Ngo, Kevin Bao
-APCS2 - pd1
-QuickSort
+Team MiddleSense <br>
+Despoina Sparakis, Samantha Ngo, Kevin Bao <br>
+APCS2 - pd1 <br>
+QuickSort <br>
 
