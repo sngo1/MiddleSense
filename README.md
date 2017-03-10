@@ -35,6 +35,7 @@ We used QuickSort.buildArray(size,maxVal) to build new randomly generated arrays
 	 Average time for size 200000: 320.71
 
 ##
+![alt text](https://github.com/sngo1/MiddleSense/blob/master/quicksortchart.PNG "chart")
 
 
 
