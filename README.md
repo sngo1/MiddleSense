@@ -36,6 +36,9 @@ We used QuickSort.buildArray(size,maxVal) to build new randomly generated arrays
 
 ##
 ![alt text](https://github.com/sngo1/MiddleSense/blob/master/quicksortchart.PNG "chart")
+##
+![alt text](https://github.com/sngo1/MiddleSense/blob/master/nlogngraph.PNG "chart")
+
 
 
 
