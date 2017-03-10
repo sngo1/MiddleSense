@@ -34,6 +34,9 @@ We used QuickSort.buildArray(size,maxVal) to build new randomly generated arrays
 	 Average time for size 100000: 89.9
 	 Average time for size 200000: 320.71
 
+##
+
+
 
 
 
