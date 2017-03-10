@@ -38,8 +38,11 @@ We used QuickSort.buildArray(size,maxVal) to build new randomly generated arrays
 ![alt text](https://github.com/sngo1/MiddleSense/blob/master/quicksortchart.PNG "chart")
 ##
 ![alt text](https://github.com/sngo1/MiddleSense/blob/master/nlogngraph.png "chart")
+<br>QuickSort has a runtime of O(nlogn).
 
-
+##How pivot selection and data arrangement affect execution time
+###If QuickSort continuously chooses the the smallest int as the pivot in a set of ints in reverse order, partition will be called on every int in the set (n times). The same concept applies for QuickSort continuously choosing the largest int as the pivot in a set of ints in order. <br>
+However, if QuickSort continuously chooses the median int as the pivot in a set of ints in <i>any</i> order, each time partition is called, the set of ints is split in half, and partition will only be called logn times.
 
 
 
